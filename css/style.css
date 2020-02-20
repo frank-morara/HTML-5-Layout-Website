@@ -57,6 +57,7 @@ p{
 .bg-light{
     background:#f4f4f4;
     color:black;
+    width:25%;
 }
 .bg-dark{
   background:#333;
@@ -215,6 +216,10 @@ p{
 }
 #contact-form textarea{
     height:200px;
+}
+#contact-form .l-heading h1{
+    margin-top:20px;
+    padding-top:20px;
 }
 #contact-form input:focus,
 #contact-form textarea:focus{
